@@ -32,9 +32,6 @@ pnpm install
 # or
 bun install
 Run the development server:
-
-bash
-Copy code
 npm run dev
 # or
 yarn dev
@@ -42,7 +39,8 @@ yarn dev
 pnpm dev
 # or
 bun dev
-Open the app in your browser:
+
+## Open the app in your browser:
 
 http://localhost:3000
 Project Structure
@@ -54,8 +52,6 @@ Animations are implemented with Framer Motion
 
 Main page file:
 
-bash
-Copy code
 app/page.tsx
 Notes
 The project is intentionally minimal
